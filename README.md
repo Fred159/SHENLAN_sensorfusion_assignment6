@@ -41,8 +41,14 @@ UpdatePosition(delta_t, velocity_delta);
 ### 结果
 生成了和Ground truth类似的蓝色的pose点。
 ![figure1](https://github.com/Fred159/SHENLAN_sensorfusion_assignment6/blob/main/figures/l6_assignment_1.png)
+
 ![figure2](https://github.com/Fred159/SHENLAN_sensorfusion_assignment6/blob/main/figures/l6_assignment_2.png)
+
 ![figure3](https://github.com/Fred159/SHENLAN_sensorfusion_assignment6/blob/main/figures/l6_assignment_3.png)
+
 ![figure4](https://github.com/Fred159/SHENLAN_sensorfusion_assignment6/blob/main/figures/l6_assignment_4.png)
+
 ![figure5](https://github.com/Fred159/SHENLAN_sensorfusion_assignment6/blob/main/figures/l6_assignment_5.png)
+
 ![figure6](https://github.com/Fred159/SHENLAN_sensorfusion_assignment6/blob/main/figures/l6_assignment_6.png)
+
